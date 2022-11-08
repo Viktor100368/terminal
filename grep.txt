@@ -1,9 +1,0 @@
-Hi
-this
-is test file
-to carry out few
-regular expressions
-prectical with grep
-123 456
-Abcd
-ABCD
